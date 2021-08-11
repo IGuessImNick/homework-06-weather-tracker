@@ -1,4 +1,4 @@
-# Coding Quiz
+# Weather Tracker
 
 This project was designed for the UC Davis Fullstack Web Development Program. It has been deployed to GitHub pages at the following link:
 
